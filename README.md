@@ -1,5 +1,5 @@
 # About this tool
-![ChatGPT Image May 12, 2025, 09_02_52 PM](https://github.com/user-attachments/assets/4e34c09d-b870-40fc-941f-88d027ba4c13)
+![ChatGPT Image May 12, 2025, 09_02_52 PM](https://github.com/user-attachments/assets/cf77515b-7916-4e4a-a963-ecd3db20403f)
 The GhostRTC tool is designed to detect potential IP address leaks caused by WebRTC in modern browsers. WebRTC (Web Real-Time Communication) can inadvertently expose your real IP address—even when using a VPN—posing a threat to your online anonymity. This tool simulates a leak scenario by initiating a WebRTC connection and capturing any IP addresses exposed during the negotiation process.
 
 
